@@ -1,0 +1,20 @@
+Jobs at Zillow Group: 176 open jobs
+Our Next Chapter
+Zillow’s founders saw an opportunity to empower people with knowledge and information and make it radically easier for people to move. The introduction of the Zestimate, our proprietary valuation algorithm, combined with advanced technology, content and connections, has turned Zillow into a household name. This was phase one.
+
+Despite the transparency that’s empowered millions of people in their home journey, very little innovation has happened around the transaction itself. We now live in an always-on world, but real estate isn’t always on. In fact, it’s off a lot of the time. Other industries have ushered in a new era of convenience; the time for a seamless and convenient real estate transaction experience is now. This is phase two — and our next chapter as a company.  
+
+Zillow’s mission is to give people the power to unlock life’s next chapter. 
+
+Today, the millions of people who rely on Zillow to start their home search can now rely on Zillow and its affiliates to help them finish it — with the same transparency, reliability and confidence they’ve come to expect from real estate’s most trusted brand. We are early in this expansion, but we are well on our way.
+
+Our Values
+At Zillow, our values are our guiding light. They drive how we work together and how we show up for our community, and they shape what we aspire to be. They influence our business decisions and how we ultimately serve our customers.
+
+
+Company Tech Stack by G2 Stack
+
+Zillow uses 76 technology products and services including HTML5 , Google Analytics , and jQuery , according to G2 Stack.
+
+How does Zillow use machine learning?
+The company now uses machine learning-based neural networks and additional data that improve how quickly the algorithm reacts to market trends. Zillow said Zestimate's national median error rate for off-market homes is now 6.9%, an improvement of nearly a full percentage point.
